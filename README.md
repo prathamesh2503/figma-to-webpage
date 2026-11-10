@@ -5,5 +5,5 @@ structured layout.
 
 ### 🔗 Project Links
 1. Design Source: Figma Design Canvas
-2. Live Preview: [Insert Live URL - e.g., GitHub Pages, Vercel, Netlify]
+2. Live Preview: https://prathamesh2503.github.io/figma-to-webpage/
 
